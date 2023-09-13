@@ -4,5 +4,10 @@ Epost: jakob.vanky.8018@student.uu.se
 
 Person B
 Användare på GitHub: FayazSaiedi
-Nman: Fayaz Saiedi
-Epost:fayaz.saiedi.4924@student.com
+Namn: Fayaz Saiedi
+Epost:fayaz.saiedi.4924@student.uu.se
+
+Person C
+Användare på GitHub: Charlie-Frykstrand
+Namn: Charlie Frykstrand
+Epost: Charlie.frykstrand.5696@student.uu.se
